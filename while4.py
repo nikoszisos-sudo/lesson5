@@ -1,4 +1,4 @@
 i = int(input("Δωσε μια τιμή: "))
-while (i>=10):
+while (i>=3):
     print (i)
-    i-=1
+    i = i-2

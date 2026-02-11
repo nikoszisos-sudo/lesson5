@@ -5,4 +5,4 @@ while metritis < len(my_list):
     if my_list[metritis] > megistos:
        megistos = my_list[metritis]
     metritis = metritis + 1
-print ("Το άθροισμα όλων των αριθμών είναι: " + str(megistos))
+print ("Ο μέγιστος όλων των αριθμών είναι: " + str(megistos))
